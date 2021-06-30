@@ -1,0 +1,13 @@
+C:\Users\Jorge\WorkUniversity\TryPipeline\TryPipeline\bin\Debug\netcoreapp3.1\TryPipeline.exe
+C:\Users\Jorge\WorkUniversity\TryPipeline\TryPipeline\bin\Debug\netcoreapp3.1\TryPipeline.deps.json
+C:\Users\Jorge\WorkUniversity\TryPipeline\TryPipeline\bin\Debug\netcoreapp3.1\TryPipeline.runtimeconfig.json
+C:\Users\Jorge\WorkUniversity\TryPipeline\TryPipeline\bin\Debug\netcoreapp3.1\TryPipeline.runtimeconfig.dev.json
+C:\Users\Jorge\WorkUniversity\TryPipeline\TryPipeline\bin\Debug\netcoreapp3.1\TryPipeline.dll
+C:\Users\Jorge\WorkUniversity\TryPipeline\TryPipeline\bin\Debug\netcoreapp3.1\TryPipeline.pdb
+C:\Users\Jorge\WorkUniversity\TryPipeline\TryPipeline\obj\Debug\netcoreapp3.1\TryPipeline.csproj.AssemblyReference.cache
+C:\Users\Jorge\WorkUniversity\TryPipeline\TryPipeline\obj\Debug\netcoreapp3.1\TryPipeline.AssemblyInfoInputs.cache
+C:\Users\Jorge\WorkUniversity\TryPipeline\TryPipeline\obj\Debug\netcoreapp3.1\TryPipeline.AssemblyInfo.cs
+C:\Users\Jorge\WorkUniversity\TryPipeline\TryPipeline\obj\Debug\netcoreapp3.1\TryPipeline.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\WorkUniversity\TryPipeline\TryPipeline\obj\Debug\netcoreapp3.1\TryPipeline.dll
+C:\Users\Jorge\WorkUniversity\TryPipeline\TryPipeline\obj\Debug\netcoreapp3.1\TryPipeline.pdb
+C:\Users\Jorge\WorkUniversity\TryPipeline\TryPipeline\obj\Debug\netcoreapp3.1\TryPipeline.genruntimeconfig.cache
